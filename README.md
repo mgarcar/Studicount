@@ -13,8 +13,11 @@ We have created an app that displays discounts for services and products availab
 
 
 ## Installation 
+Download the py file uploaded in the repository and run it.
 
 ## Usage
+Open the py file uploaded in the repository with a python compatible app (example: Pycharm). Run the code. Introduce the category on which you would like to find discounts. Now introduce your location area. If you are indiffernt just insert both. 
+Once you get the discounts you will have the option to create a folder. Insert the name you wich to assign to your folder and write all the dicsounts you want to include in the folder. 
 
 ## Credits 
 This project was entirely executed by Maria Gabriela Rey, Sofia Ambrosi, Araceli Pfeiffer and Marta Garcia Carceller
